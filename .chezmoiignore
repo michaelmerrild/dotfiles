@@ -1,0 +1,3 @@
+# -*-mode:gitignore-*- vim:ft=gitignore
+
+private_dot_config/iterm/com.googlecode.iterm2.plist
