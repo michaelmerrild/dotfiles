@@ -1,14 +1,5 @@
-path+=('/Users/michael/Library/Android/sdk/tools/bin')
 
-export EDITOR="code --wait"
+source "$ZDOTDIR/env.zsh"
+source "$ZDOTDIR/aliases.zsh"
 
-if type brew &>/dev/null; then
-  FPATH=$(brew --prefix)/share/zsh/site-functions:$(brew --prefix)/share/zsh-completions:$FPATH
-
-  autoload -Uz compinit
-  compinit
-fi
-
-eval "$(fnm env --use-on-cd)"
-
-eval "$(starship init zsh)"
+type brew &>/dev/null && source "$ZDOTDIR/init.zsh"
