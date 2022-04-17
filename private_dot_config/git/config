@@ -1,0 +1,9 @@
+[user]
+	name = Michael Merrild
+	email = michael.merrild@gmail.com
+[credential]
+	helper = osxkeychain
+[pull]
+	ff = only
+[core]
+	excludesfile = ~/.config/git/ignore
