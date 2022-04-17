@@ -5,7 +5,7 @@ set -e
 if ! type brew &>/dev/null
 then
   echo "Install Homebrew"
-  /bin/zsh -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 else
   echo "Homebrew already installed..."
 fi
