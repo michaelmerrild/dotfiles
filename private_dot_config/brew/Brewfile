@@ -45,11 +45,11 @@ cask "postman"
 cask "slack"
 cask "visual-studio-code"
 cask "warp"
-cask "rancher"
 cask "slack"
 cask "notion"
 cask "fig"
 cask "raycast"
+cask "docker"
 
 # Fonts
 cask "font-fira-code"
