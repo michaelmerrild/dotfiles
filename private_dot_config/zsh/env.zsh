@@ -7,3 +7,4 @@ export PATH="${PATH}:${HOME}/.local/bin"
 export PATH="${PATH}:${HOME}/.fig/bin"
 export PATH="${PATH}:${HOME}/.rd/bin"
 
+source "$ZDOTDIR/env.secret.zsh"
