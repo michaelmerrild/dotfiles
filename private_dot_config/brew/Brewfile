@@ -50,6 +50,7 @@ cask "notion"
 cask "fig"
 cask "raycast"
 cask "docker"
+cask "bloomrpc"
 
 # Fonts
 cask "font-fira-code"
