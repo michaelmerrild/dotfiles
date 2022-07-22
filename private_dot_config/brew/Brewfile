@@ -33,7 +33,6 @@ brew "youtube-dl"
 brew "zsh-completions"
 brew "git-filter-repo"
 brew "mitmproxy"
-brew "sdm"
 brew "aws/tap/aws-sam-cli"
 brew "remind101/formulae/assume-role"
 brew "shopify/shopify/shopify-cli", link: false
@@ -53,6 +52,7 @@ cask "fig"
 cask "raycast"
 cask "docker"
 cask "bloomrpc"
+cask "sdm"
 
 # Fonts
 cask "font-fira-code"
