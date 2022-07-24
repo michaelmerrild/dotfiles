@@ -33,10 +33,13 @@ brew "youtube-dl"
 brew "zsh-completions"
 brew "git-filter-repo"
 brew "mitmproxy"
+brew "k3d"
+
 brew "aws/tap/aws-sam-cli"
 brew "remind101/formulae/assume-role"
 brew "shopify/shopify/shopify-cli", link: false
 brew "stripe/stripe-cli/stripe"
+
 cask "caffeine"
 cask "google-chrome"
 cask "iterm2"
