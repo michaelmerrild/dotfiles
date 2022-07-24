@@ -34,6 +34,7 @@ brew "zsh-completions"
 brew "git-filter-repo"
 brew "mitmproxy"
 brew "k3d"
+brew "kind"
 
 brew "aws/tap/aws-sam-cli"
 brew "remind101/formulae/assume-role"
