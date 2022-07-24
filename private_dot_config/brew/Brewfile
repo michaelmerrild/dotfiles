@@ -35,6 +35,8 @@ brew "git-filter-repo"
 brew "mitmproxy"
 brew "k3d"
 brew "kind"
+brew "kubernetes-cli"
+brew "kubectx"
 
 brew "aws/tap/aws-sam-cli"
 brew "remind101/formulae/assume-role"
