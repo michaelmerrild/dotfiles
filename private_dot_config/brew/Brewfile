@@ -8,6 +8,7 @@ tap "remind101/formulae"
 tap "shopify/shopify"
 tap "stripe/stripe-cli"
 tap "homebrew/cask-fonts"
+tap "pulumi/tap"
 
 # Packages
 brew "awscli"
@@ -42,6 +43,7 @@ brew "aws/tap/aws-sam-cli"
 brew "remind101/formulae/assume-role"
 brew "shopify/shopify/shopify-cli", link: false
 brew "stripe/stripe-cli/stripe"
+brew "pulumi/tap/pulumi"
 
 cask "caffeine"
 cask "google-chrome"
