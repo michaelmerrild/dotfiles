@@ -39,6 +39,7 @@ brew "kind"
 brew "kubernetes-cli"
 brew "kubectx"
 brew "argocd"
+brew "rover"
 
 brew "aws/tap/aws-sam-cli"
 brew "remind101/formulae/assume-role"
