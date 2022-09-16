@@ -40,6 +40,7 @@ brew "kubernetes-cli"
 brew "kubectx"
 brew "argocd"
 brew "rover"
+brew "rustup-init"
 
 brew "aws/tap/aws-sam-cli"
 brew "remind101/formulae/assume-role"
