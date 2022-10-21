@@ -66,6 +66,7 @@ cask "raycast"
 cask "docker"
 cask "bloomrpc"
 cask "sdm"
+cask "mongodb-compass"
 
 # Fonts
 cask "font-fira-code"
