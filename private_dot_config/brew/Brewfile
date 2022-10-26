@@ -67,6 +67,7 @@ cask "docker"
 cask "bloomrpc"
 cask "sdm"
 cask "mongodb-compass"
+cask "podman-desktop"
 
 # Fonts
 cask "font-fira-code"
