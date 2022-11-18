@@ -43,6 +43,7 @@ brew "rover"
 brew "rustup-init"
 brew "protobuf"
 brew "k9s"
+brew "rsync"
 
 brew "aws/tap/aws-sam-cli"
 brew "remind101/formulae/assume-role"
