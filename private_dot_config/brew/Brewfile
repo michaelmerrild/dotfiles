@@ -45,6 +45,7 @@ brew "protobuf"
 brew "k9s"
 brew "rsync"
 brew "devspace"
+brew "helm"
 
 brew "aws/tap/aws-sam-cli"
 brew "remind101/formulae/assume-role"
