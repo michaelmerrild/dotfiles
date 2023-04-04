@@ -46,6 +46,8 @@ brew "k9s"
 brew "rsync"
 brew "devspace"
 brew "helm"
+brew "jq"
+brew "python@3.11"
 
 brew "aws/tap/aws-sam-cli"
 brew "remind101/formulae/assume-role"
