@@ -1,11 +1,8 @@
 
 # Taps
-tap "aws/tap"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
-tap "remind101/formulae"
-tap "shopify/shopify"
 tap "stripe/stripe-cli"
 tap "homebrew/cask-fonts"
 tap "pulumi/tap"
@@ -36,7 +33,6 @@ brew "git-filter-repo"
 brew "mitmproxy"
 brew "k3d"
 brew "kind"
-brew "kubernetes-cli"
 brew "kubectx"
 brew "argocd"
 brew "rover"
@@ -49,9 +45,6 @@ brew "helm"
 brew "jq"
 brew "python@3.11"
 
-brew "aws/tap/aws-sam-cli"
-brew "remind101/formulae/assume-role"
-brew "shopify/shopify/shopify-cli", link: false
 brew "stripe/stripe-cli/stripe"
 brew "pulumi/tap/pulumi"
 
