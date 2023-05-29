@@ -45,6 +45,7 @@ brew "helm"
 brew "jq"
 brew "python@3.11"
 brew "graphviz"
+brew "cloc"
 
 brew "stripe/stripe-cli/stripe"
 brew "pulumi/tap/pulumi"
