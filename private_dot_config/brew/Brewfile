@@ -6,6 +6,7 @@ tap "homebrew/core"
 tap "stripe/stripe-cli"
 tap "homebrew/cask-fonts"
 tap "pulumi/tap"
+tap "oven-sh/bun"
 
 # Packages
 brew "awscli"
@@ -46,6 +47,7 @@ brew "jq"
 brew "python@3.11"
 brew "graphviz"
 brew "cloc"
+brew "bun"
 
 brew "stripe/stripe-cli/stripe"
 brew "pulumi/tap/pulumi"
