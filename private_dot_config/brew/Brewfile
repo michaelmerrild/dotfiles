@@ -48,6 +48,7 @@ brew "python@3.11"
 brew "graphviz"
 brew "cloc"
 brew "bun"
+brew "trivy"
 
 brew "stripe/stripe-cli/stripe"
 brew "pulumi/tap/pulumi"
@@ -70,6 +71,7 @@ cask "bloomrpc"
 cask "sdm"
 cask "mongodb-compass"
 cask "podman-desktop"
+cask "devpod"
 
 # Fonts
 cask "font-fira-code"
