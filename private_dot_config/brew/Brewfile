@@ -49,6 +49,7 @@ brew "graphviz"
 brew "cloc"
 brew "bun"
 brew "trivy"
+brew "qemu"
 
 brew "stripe/stripe-cli/stripe"
 brew "pulumi/tap/pulumi"
