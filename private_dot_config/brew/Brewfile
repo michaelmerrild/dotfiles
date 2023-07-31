@@ -50,6 +50,7 @@ brew "cloc"
 brew "bun"
 brew "trivy"
 brew "qemu"
+brew "binutils"
 
 brew "stripe/stripe-cli/stripe"
 brew "pulumi/tap/pulumi"
