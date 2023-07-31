@@ -7,6 +7,7 @@ tap "stripe/stripe-cli"
 tap "homebrew/cask-fonts"
 tap "pulumi/tap"
 tap "oven-sh/bun"
+tap "nativeos/i386-elf-toolchain"
 
 # Packages
 brew "awscli"
@@ -50,10 +51,11 @@ brew "cloc"
 brew "bun"
 brew "trivy"
 brew "qemu"
-brew "binutils"
 
 brew "stripe/stripe-cli/stripe"
 brew "pulumi/tap/pulumi"
+brew "nativeos/i386-elf-toolchain/i386-elf-binutils"
+brew "nativeos/i386-elf-toolchain/i386-elf-gcc"
 
 cask "caffeine"
 cask "google-chrome"
