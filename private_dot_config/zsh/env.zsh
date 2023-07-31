@@ -9,6 +9,6 @@ export PATH="${PATH}:${HOME}/.fig/bin"
 export PATH="${PATH}:${HOME}/.rd/bin"
 export PATH="${PATH}:${PNPM_HOME}"
 export PATH="${PATH}:${HOME}/.cargo/bin"
-export PATH="${PATH}:${HOME}/fig"
+export PATH="${PATH}:${HOME}/zig"
 
 source "$ZDOTDIR/env.secret.zsh"
