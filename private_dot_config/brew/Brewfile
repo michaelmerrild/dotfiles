@@ -76,6 +76,7 @@ cask "sdm"
 cask "mongodb-compass"
 cask "devpod"
 cask "lens"
+cask "obsidian"
 
 # Fonts
 cask "font-fira-code"
