@@ -79,6 +79,7 @@ cask "devpod"
 cask "lens"
 cask "obsidian"
 cask "db-browser-for-sqlite"
+cask "handbreak"
 
 # Fonts
 cask "font-fira-code"
