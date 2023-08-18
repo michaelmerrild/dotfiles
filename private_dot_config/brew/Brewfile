@@ -78,6 +78,7 @@ cask "mongodb-compass"
 cask "devpod"
 cask "lens"
 cask "obsidian"
+cask "db-browser-for-sqlite"
 
 # Fonts
 cask "font-fira-code"
