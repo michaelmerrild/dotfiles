@@ -52,6 +52,8 @@ brew "bun"
 brew "trivy"
 brew "qemu"
 brew "ffmpeg"
+brew "podman"
+brew "podman-compose"
 
 brew "stripe/stripe-cli/stripe"
 brew "pulumi/tap/pulumi"
