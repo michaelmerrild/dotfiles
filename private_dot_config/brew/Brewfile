@@ -54,6 +54,7 @@ brew "qemu"
 brew "ffmpeg"
 brew "podman"
 brew "podman-compose"
+brew "watchman"
 
 brew "stripe/stripe-cli/stripe"
 brew "pulumi/tap/pulumi"
