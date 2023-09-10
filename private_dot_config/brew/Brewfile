@@ -55,6 +55,7 @@ brew "ffmpeg"
 brew "podman"
 brew "podman-compose"
 brew "watchman"
+brew "libpq"
 
 brew "stripe/stripe-cli/stripe"
 brew "pulumi/tap/pulumi"
