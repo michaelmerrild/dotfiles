@@ -57,6 +57,7 @@ brew "podman-compose"
 brew "watchman"
 brew "libpq"
 brew "yq"
+brew "helix"
 
 brew "stripe/stripe-cli/stripe"
 brew "pulumi/tap/pulumi"
